@@ -3,7 +3,7 @@
 ## Official
 
 * [Website](https://olympusdao.finance)
-* [Twitter](https://twitter.com/OlympusDAO)
+* [Twitter](https://twitter.com/CitadelDAO)
 * [Medium](https://olympusdao.medium.com)
 * [Discord](https://discord.com/invite/olympusdao)
 * [Forum](https://forum.olympusdao.finance)

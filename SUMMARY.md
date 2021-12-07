@@ -12,13 +12,13 @@
 
 ## Using the Website
 
-* [Stake Your OHM \(3, 3\)](using-the-website/staking.md)
+* [Stake Your CTDL \(3, 3\)](using-the-website/staking.md)
 * [Purchase A Bond \(1, 1\)](using-the-website/bonds/README.md)
   * [DAI Bond](using-the-website/bonds/bond_dai.md)
   * [FRAX Bond](using-the-website/bonds/bond_frax.md)
   * [wETH Bond](using-the-website/bonds/bond_weth.md)
-  * [OHM-DAI LP Bond](using-the-website/bonds/ohm-dai-lp-bond.md)
-  * [OHM-FRAX LP Bond](using-the-website/bonds/bond_ohm_frax.md)
+  * [CTDL-DAI LP Bond](using-the-website/bonds/ohm-dai-lp-bond.md)
+  * [CTDL-FRAX LP Bond](using-the-website/bonds/bond_ohm_frax.md)
 * [Stake LP Tokens](using-the-website/staking_lp.md)
 * [Unstake LP Tokens](using-the-website/unstaking_lp.md)
 * [Migrate Tokens \(v1.1\)](using-the-website/migrate.md)
@@ -27,8 +27,8 @@
 
 ## Using Etherscan
 
-* [Stake Your OHM \(3, 3\)](using-etherscan/staking.md)
-* [Unstake sOHM](using-etherscan/unstaking.md)
+* [Stake Your CTDL \(3, 3\)](using-etherscan/staking.md)
+* [Unstake sCTDL](using-etherscan/unstaking.md)
 
 ## Partnership
 
@@ -47,7 +47,7 @@
 ## Whitepapers
 
 * [Economic Productivity in Digital Media](whitepapers/economic-productivity.md)
-* [Olympus Game Theory](whitepapers/game-theory.md)
+* [Citadel Game Theory](whitepapers/game-theory.md)
 
 ## Contracts
 

@@ -4,15 +4,15 @@ You can start by referring to David’s [Medium article on how to use Abracadabr
 
 ## How to Borrow MIM
 
-If you have [staked OHM on Olympus](../../using-the-website/staking.md), you can borrow MIM against your sOHM.
+If you have [staked CTDL on Citadel](../../using-the-website/staking.md), you can borrow MIM against your sCTDL.
 
 1. Connect your wallet and go to [Abracadabra.money Pool 10](https://abracadabra.money/pool/10).
 
-2. Under the "WRAP" menu, wrap the amount of sOHM against which you want to borrow to wsOHM.
+2. Under the "WRAP" menu, wrap the amount of sCTDL against which you want to borrow to wsCTDL.
 
 ![](../../.gitbook/assets/screen-shot-2021-08-29-at-4.10.42-pm%20%281%29.png)
 
-3. Go to the "BORROW" menu. Type the amount of wsOHM that you want to use as collateral and type the amount of MIM you want to borrow.
+3. Go to the "BORROW" menu. Type the amount of wsCTDL that you want to use as collateral and type the amount of MIM you want to borrow.
 
 4. Click "ADD COLLATERAL AND BORROW" and sign the transaction. When the transaction is processed successfully, the borrowed MIM amount will appear in your wallet.
 
@@ -40,7 +40,7 @@ Liquidation price increases with loop amount, and a higher liquidation price mea
 
 4. To use a lower gas fee, click on "Update price". Then click "ADD COLLATERAL AND BORROW" and sign the transaction to open a leverage position.
 
-5. Unlike a normal borrow, you will not get any MIM tokens in your wallet from this transaction because they are swapped for more wsOHM in the background.
+5. Unlike a normal borrow, you will not get any MIM tokens in your wallet from this transaction because they are swapped for more wsCTDL in the background.
 
 {% hint style="danger" %}
 You can add more collateral before the collateral price reaches the liquidation price. When you use leverage, you will forfeit all your collateral if you get liquidated.

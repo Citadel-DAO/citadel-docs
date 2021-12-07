@@ -4,7 +4,7 @@ description: 'A marketplace for your favorite DeFi tokens, offered at a discount
 
 # Bond Marketplace Guide
 
-The Bond Marketplace is the heart of Olympus Pro. It provides the user with a suite of different bonds they can purchase from: 
+The Bond Marketplace is the heart of Citadel Pro. It provides the user with a suite of different bonds they can purchase from: 
 
 ![Bond Marketplace interface](../../.gitbook/assets/marketplace.png)
 

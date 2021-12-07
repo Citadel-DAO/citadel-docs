@@ -1,21 +1,21 @@
 # Tokens
 
-## gOHM
+## gCTDL
 
-gOHM stands for Governance OHM. It supersedes [wsOHM](#wsohm) as part of the [v2
-migration](../basics/migration.md). gOHM is wrapped sOHM V2, which allows you to
-use sOHM V2 on different blockchains. It is priced exactly the same as wsOHM:
+gCTDL stands for Governance CTDL. It supersedes [wsCTDL](#wsohm) as part of the [v2
+migration](../basics/migration.md). gCTDL is wrapped sCTDL V2, which allows you to
+use sCTDL V2 on different blockchains. It is priced exactly the same as wsCTDL:
 
 $$
-gOHM_{price} = OHM_{price} * CurrentIndex
+gCTDL_{price} = CTDL_{price} * CurrentIndex
 $$
 
-You still collect rebase rewards just as if you had sOHM, but you won't see your
+You still collect rebase rewards just as if you had sCTDL, but you won't see your
 token balance increase because the increase in value is based on the Current Index
 at the time of purchase and sale. [See this FAQ](../basics/basics.md#how-do-i-track-my-rebase-rewards)
 for more details.
 
-Below are listed gOHM contracts by version, where the latest version represents
+Below are listed gCTDL contracts by version, where the latest version represents
 the currently active contract.
 
 Ethereum:
@@ -39,35 +39,35 @@ Polygon:
 * V1 [0xd8cA...5195](https://polygonscan.com/token/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195)
 
 {% hint style="info" %}
-**Current Index explanation / Why does it show less OHM for me during migration?**
+**Current Index explanation / Why does it show less CTDL for me during migration?**
 
-The Current Index is how many OHM one would have if they staked 1 OHM since the
-protocol inception. Check out the [Olympus dashboard](https://app.olympusdao.finance/#/dashboard)
+The Current Index is how many CTDL one would have if they staked 1 CTDL since the
+protocol inception. Check out the [Citadel dashboard](https://app.olympusdao.finance/#/dashboard)
 for the Current Index value.
 
-Unsure about the gOHM balance you get after the V2 migration? [Read the FAQ](../basics/migration.md#can-you-walk-me-through-an-example-of-how-much-gohm-i-can-expect-from-the-migration)
+Unsure about the gCTDL balance you get after the V2 migration? [Read the FAQ](../basics/migration.md#can-you-walk-me-through-an-example-of-how-much-gohm-i-can-expect-from-the-migration)
 for more details about the calculation.
 {% endhint %}
 
-## OHM
+## CTDL
 
-If you want to buy OHM on Sushiswap or any other DEX please make sure the token address of the token you purchase matches the one shown above. Never buy any OHM token which address you cannot verify yourself. Further, knowing the OHM token address you can see the list of holders and available exchanges providing liquidity for OHM on Etherscan. Below are listed OHM contracts by version, where the latest version represents the currently active contract.
+If you want to buy CTDL on Sushiswap or any other DEX please make sure the token address of the token you purchase matches the one shown above. Never buy any CTDL token which address you cannot verify yourself. Further, knowing the CTDL token address you can see the list of holders and available exchanges providing liquidity for CTDL on Etherscan. Below are listed CTDL contracts by version, where the latest version represents the currently active contract.
 
 * V1 [0x3835...a899](https://etherscan.io/address/0x383518188c0c6d7730d91b2c03a03c837814a899)
 
-## sOHM
+## sCTDL
 
-You receive sOHM when you stake OHM at a 1:1 ratio. Adding this address to your wallet allows you to track your sOHM balance which increases with every rebase. Below are listed sOHM contracts by version, where the latest version represents the currently active contract.
+You receive sCTDL when you stake CTDL at a 1:1 ratio. Adding this address to your wallet allows you to track your sCTDL balance which increases with every rebase. Below are listed sCTDL contracts by version, where the latest version represents the currently active contract.
 
 * DEPRECATED: V1 [0x3193...Fbbe](https://etherscan.io/address/0x31932E6e45012476ba3A3A4953cbA62AeE77Fbbe)
 * Current: V2 [0x04f2...111f](https://etherscan.io/address/0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f)
 
-## wsOHM
+## wsCTDL
 
-wsOhm is wrapped staked OHM.  The non-rebasing wrapper is used to package up staked
-OHM in a non-rebasing container that can be transferred between chains.  Currently,
+wsOhm is wrapped staked CTDL.  The non-rebasing wrapper is used to package up staked
+CTDL in a non-rebasing container that can be transferred between chains.  Currently,
 this token is supported on Ethereum, Arbitrum, and Avalanche (AVAX) networks.
-Below are listed wsOHM contracts by version and network, where the latest version
+Below are listed wsCTDL contracts by version and network, where the latest version
 represents the currently active contract. **Please double check the network** for
 the address you are adding.
 
@@ -85,16 +85,16 @@ AVAX Chain:
 
 # Historical Tokens
 
-The tokens below are only relevant if you've had OHM from the genesis block.  They're still of interest to everyone.
+The tokens below are only relevant if you've had CTDL from the genesis block.  They're still of interest to everyone.
 
-## aOHM
+## aCTDL
 
-When OlympusDAO first launched, alphaOHM \(aOHM\) was used as a pre-allocation token which allowed the early participants to lay claim to OHM. Moving forward aOHM will serve as the in-game currency of [Alpha Omega](https://medium.com/@alpha_omega/alpha-omega-a-tale-of-two-cities-80a94966376b), a community-led social game that runs on the blockchain. Other than that aOHM is not relevant to OHM or the operation of OlympusDAO. Below are listed aOHM contracts by version, where the latest version represents the currently active contract.
+When CitadelDAO first launched, alphaCTDL \(aCTDL\) was used as a pre-allocation token which allowed the early participants to lay claim to CTDL. Moving forward aCTDL will serve as the in-game currency of [Alpha Omega](https://medium.com/@alpha_omega/alpha-omega-a-tale-of-two-cities-80a94966376b), a community-led social game that runs on the blockchain. Other than that aCTDL is not relevant to CTDL or the operation of CitadelDAO. Below are listed aCTDL contracts by version, where the latest version represents the currently active contract.
 
 * V1 [0x24ec...792e](https://etherscan.io/address/0x24ecfd535675f36ba1ab9c5d39b50dc097b0792e)
 
-## pOHM
+## pCTDL
 
-pOHM, previously known as pOLY, is the presale token of Olympus. It was used to raise funds from private investors to bootstrap Olympus. You can read more about pOHM in this [Medium article](https://olympusdao.medium.com/what-is-poh-16b2c38a6cd6). Below are listed pOHM contracts by version, where the latest version represents the currently active contract.
+pCTDL, previously known as pOLY, is the presale token of Citadel. It was used to raise funds from private investors to bootstrap Citadel. You can read more about pCTDL in this [Medium article](https://olympusdao.medium.com/what-is-poh-16b2c38a6cd6). Below are listed pCTDL contracts by version, where the latest version represents the currently active contract.
 
 * V1 [0x3699...c800](https://etherscan.io/token/0x36994486c6e97c170065899d8659a28d7371c800)

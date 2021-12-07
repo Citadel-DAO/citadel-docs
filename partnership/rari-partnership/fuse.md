@@ -1,8 +1,8 @@
 # Fuse
 
-Fuse is an isolated interest rate market by Rari Capital. Each pool in Fuse can support different types of assets and use different interest rate curves. To lend out sOHM and/or use it as a collateral, users can enter [Olympus Pool Party Fuse pool](https://app.rari.capital/fuse/pool/18). In this pool, several assets are supported:
+Fuse is an isolated interest rate market by Rari Capital. Each pool in Fuse can support different types of assets and use different interest rate curves. To lend out sCTDL and/or use it as a collateral, users can enter [Citadel Pool Party Fuse pool](https://app.rari.capital/fuse/pool/18). In this pool, several assets are supported:
 
-* sOHM
+* sCTDL
 * USDC
 * DAI
 * ETH
@@ -10,7 +10,7 @@ Fuse is an isolated interest rate market by Rari Capital. Each pool in Fuse can 
 
 ## How to Supply Asset
 
-1. Go to [Olympus Pool Party Fuse pool](https://app.rari.capital/fuse/pool/18).
+1. Go to [Citadel Pool Party Fuse pool](https://app.rari.capital/fuse/pool/18).
 2. On the Supply panel, select the asset you want to supply.
 
    ![The Supply panel](../../.gitbook/assets/supply.png)

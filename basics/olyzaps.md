@@ -2,8 +2,8 @@
 
 ## What is OlyZaps?
 
-OlyZaps allows users to swap (zap) any asset into sOHM or a bond directly through
-the [Olympus App](https://app.olympusdao.finance/#/zap).
+OlyZaps allows users to swap (zap) any asset into sCTDL or a bond directly through
+the [Citadel App](https://app.olympusdao.finance/#/zap).
 
 This is made possible through a collaboration with [Zapper](https://zapper.fi/),
 which provides the back-end infrastucture for zapping.
@@ -11,9 +11,9 @@ which provides the back-end infrastucture for zapping.
 ## How do I use it?
 
 Head over to the [OlyZaps section](https://app.olympusdao.finance/#/zap) of the
-Olympus App and follow our [step-by-step guide](../using-the-website/olyzaps.md).
+Citadel App and follow our [step-by-step guide](../using-the-website/olyzaps.md).
 
-Note that OlyZaps for bonds is still being built out; you can only zap into sOHM
+Note that OlyZaps for bonds is still being built out; you can only zap into sCTDL
 for now.
 
 ## Does OlyZaps save me gas?

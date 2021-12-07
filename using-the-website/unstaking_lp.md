@@ -1,8 +1,8 @@
 # Unstake LP Tokens
 
-OHM-DAI LP token staking has been deprecated as Olympus owns most of the liquidity now. [Staking rewards are no longer being paid](https://scattershot.page/#/olympusdao.eth/proposal/QmRhBupfD53yBothJ6EarEiL6ztVjSPSfTHRWEpVE7oq3g) to OHM-DAI LP stakers, and users are advised to unstake their OHM-DAI LP tokens from Olympus to prevent any opportunity cost.
+CTDL-DAI LP token staking has been deprecated as Citadel owns most of the liquidity now. [Staking rewards are no longer being paid](https://scattershot.page/#/olympusdao.eth/proposal/QmRhBupfD53yBothJ6EarEiL6ztVjSPSfTHRWEpVE7oq3g) to CTDL-DAI LP stakers, and users are advised to unstake their CTDL-DAI LP tokens from Citadel to prevent any opportunity cost.
 
-As Olympus no longer supports this feature, there is no interface for users to unstake their LP tokens directly from the Olympus website. Luckily, users can still unstake their LP tokens via [Etherscan](https://etherscan.io/). The following guide will show you how.
+As Citadel no longer supports this feature, there is no interface for users to unstake their LP tokens directly from the Citadel website. Luckily, users can still unstake their LP tokens via [Etherscan](https://etherscan.io/). The following guide will show you how.
 
 ## How to Unstake LP Tokens via Etherscan
 

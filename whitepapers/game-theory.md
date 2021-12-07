@@ -1,23 +1,23 @@
-# Olympus Game Theory
+# Citadel Game Theory
 
 kleb
 
 ## Introduction
 
-[Olympus](https://www.olympusdao.finance/) is an innovation in the way people
-interact with financial protocols. The motivation behind this essay is to delve deep into the Olympus protocol, not from an operational or financial perspective, but with the purpose of analysing human interactions.
+[Citadel](https://www.olympusdao.finance/) is an innovation in the way people
+interact with financial protocols. The motivation behind this essay is to delve deep into the Citadel protocol, not from an operational or financial perspective, but with the purpose of analysing human interactions.
 
 
 There are many fields that have something to say about human interaction but the
 field of study we will focus on here will be game theory - the study of strategic interdependence.
 
-It is our belief that Olympus is solving the problem of creating a new currency through internal coordination between different stakeholders within the protocol, without resorting to any policy enforced by a central entity. At its core this is an example of a [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). A prisoner's dilemma is a situation where an individual's self interest is in conflict with a common goal, leading to the players within the game not cooperating despite it being in their best interests to cooperate. 
+It is our belief that Citadel is solving the problem of creating a new currency through internal coordination between different stakeholders within the protocol, without resorting to any policy enforced by a central entity. At its core this is an example of a [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). A prisoner's dilemma is a situation where an individual's self interest is in conflict with a common goal, leading to the players within the game not cooperating despite it being in their best interests to cooperate. 
 
-In the case of currency, it is in each individual's best interest to use the most liquid, most widely used & stable currencies. In crypto, the assets that best meet these requirements have been dollar denominated stablecoins. The ‘common goal’ here is to remove reliance on centralized fiat currency and to maintain the individual's purchasing power. These are goals which stablecoins categorically do not achieve and yet still they are some of the most used assets in crypto. No individual acting alone can disentangle crypto from fiat; It takes mass coordination, along with alignment of incentives, and this is what Olympus facilitates.    
+In the case of currency, it is in each individual's best interest to use the most liquid, most widely used & stable currencies. In crypto, the assets that best meet these requirements have been dollar denominated stablecoins. The ‘common goal’ here is to remove reliance on centralized fiat currency and to maintain the individual's purchasing power. These are goals which stablecoins categorically do not achieve and yet still they are some of the most used assets in crypto. No individual acting alone can disentangle crypto from fiat; It takes mass coordination, along with alignment of incentives, and this is what Citadel facilitates.    
 
-We will begin by outlining the essentials of game theory and analysing the prisoner's dilemma from a purely abstract perspective. We will then dive into the specific components of Olympus. We will take no shortcuts. Olympus is a complex protocol that is the first of its kind and is deserving of deep and thorough analysis. 
+We will begin by outlining the essentials of game theory and analysing the prisoner's dilemma from a purely abstract perspective. We will then dive into the specific components of Citadel. We will take no shortcuts. Citadel is a complex protocol that is the first of its kind and is deserving of deep and thorough analysis. 
 
-This is a collaborative piece of work that will be revised over time. It is aimed at a broad range of readers and if you would like to offer feedback or contribute to future sections, please join the Olympus DAO discord and reach out to the Community and Content team. 
+This is a collaborative piece of work that will be revised over time. It is aimed at a broad range of readers and if you would like to offer feedback or contribute to future sections, please join the Citadel DAO discord and reach out to the Community and Content team. 
 
 ## Game Theory Essentials
 
@@ -152,7 +152,7 @@ The specific payoffs chosen do not matter. What matters is that the relative dif
 
 In our first example of the prisoner's dilemma, we assumed only one interaction. What changes if we play the game over and over again? 
 
-The single interaction analysed in our first example is not particularly realistic. Life is full of repeated interactions and in the case of Olympus, if it is to achieve its goal of becoming a reserve currency, it will take many repeated interactions. 
+The single interaction analysed in our first example is not particularly realistic. Life is full of repeated interactions and in the case of Citadel, if it is to achieve its goal of becoming a reserve currency, it will take many repeated interactions. 
 
 For this game we will move away from the story of the prisoners dilemma and focus instead on the payoffs. The best outcome for either player is the highest number. 
 Strategies have also changed to cooperate and defect as these are broader terms that better reflect a wide range of real life situations.  
@@ -177,7 +177,7 @@ It also pays to cooperate with TIT-FOR-TAT, as it will always cooperate in retur
 
 ## Implications of Cooperation being a Dominant Strategy  
 
-The outcome of the iterated prisoner's dilemma tournament has meaningful implications both for wider society and for Olympus. We are often taught that in a capitalist economy, individuals are only concerned with their own self-interest, and therefore selfish and competitive behaviour is the norm. Axelrod’s tournament suggests that cooperation is actually the best way to win. 
+The outcome of the iterated prisoner's dilemma tournament has meaningful implications both for wider society and for Citadel. We are often taught that in a capitalist economy, individuals are only concerned with their own self-interest, and therefore selfish and competitive behaviour is the norm. Axelrod’s tournament suggests that cooperation is actually the best way to win. 
 
 For a full analysis of the tournament and its implications I recommend reading Axelrod's book, [‘The Evolution of Cooperation’](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation). In the following section I will summarise the key components that are, according to Axelrod, necessary for cooperation to develop in decentralized systems.    
 

@@ -1,6 +1,6 @@
 # Treasury
 
-## OHM / DAI LP
+## CTDL / DAI LP
 
 * V1 [0x34d7...ef7c](https://etherscan.io/address/0x34d7d7Aaf50AD4944B70B320aCB24C95fa2def7c)
 
@@ -9,7 +9,7 @@
 The treasury contract is a simple vault implementation holding all the funds
 collected by the protocol. If for instance a user purchases a DAI bond, the
 bonded DAI is fully taken in by the treasury in return of the market equivalent
-of OHM bonded for. New OHM will be minted based on the RFV of the treasury
+of CTDL bonded for. New CTDL will be minted based on the RFV of the treasury
 assets. Below are listed treasury contracts by version, where the latest version
 represents the currently active contract.
 
