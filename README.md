@@ -2,7 +2,7 @@
 
 ## What is Citadel?
 
-Citadel is a decentralized reserve currency protocol based on the CTDL token. Each CTDL token is backed by a basket of assets (e.g. DAI, FRAX) in the Citadel treasury, giving it an intrinsic value that it cannot fall below. Citadel also introduces unique economic and game-theoretic dynamics into the market through staking and bonding. Read more about the game theory aspect of Citadel in one of our blog posts.
+Citadel is a decentralized reserve currency protocol based on the CTDL token. Each CTDL token is backed by a basket of assets (e.g. DAI) in the Citadel treasury, giving it an intrinsic value that it cannot fall below. Citadel also introduces unique economic and game-theoretic dynamics into the market through staking and bonding. Read more about the game theory aspect of Citadel in one of our blog posts.
 
 {% embed url="https://www.youtube.com/watch?v=QZOaZ9dd-ms" %}
 
@@ -14,7 +14,7 @@ Our goal is to build a policy-controlled currency system, in which the behavior 
 
 There are two main strategies for market participants: [staking](basics/staking.md) and [bonding](basics/bonding.md). Stakers stake their CTDL tokens in return for more CTDL tokens, while bonders provide LP or DAI tokens in exchange for discounted CTDL tokens after a fixed vesting period.
 
-Governance participants can get involved on our [forum](https://forum.olympusdao.finance) and through discussions on our [community discord](https://discord.com/invite/olympusdao) and [DAO discord](https://discord.com/invite/42xFV68uEf) servers respectively. We are always looking for new community members to contribute!
+Governance participants can get involved on our forum and through discussions on our community discord and DAO discord servers respectively. We are always looking for new community members to contribute!
 
 ## How can I benefit from Citadel?
 
