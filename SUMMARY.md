@@ -19,8 +19,6 @@
   * [CTDL-FRAX LP Bond](using-the-website/bonds/bond\_ohm\_frax.md)
 * [Stake LP Tokens](using-the-website/staking\_lp.md)
 * [Unstake LP Tokens](using-the-website/unstaking\_lp.md)
-* [Migrate Tokens (v1.1)](using-the-website/migrate.md)
-* [OlyZaps](using-the-website/olyzaps.md)
 
 ## Using Etherscan
 
