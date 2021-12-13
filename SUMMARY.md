@@ -27,14 +27,6 @@
 * [Stake Your CTDL (3, 3)](using-etherscan/staking.md)
 * [Unstake sCTDL](using-etherscan/unstaking.md)
 
-## Partnership
-
-* [Frax Finance](partnership/frax-partnership.md)
-* [Rari Capital](partnership/rari-partnership/README.md)
-  * [Fuse](partnership/rari-partnership/fuse.md)
-* [Abracadabra.money](partnership/abracadabra.money/README.md)
-  * [Borrowing](partnership/abracadabra.money/borrow.md)
-
 ## Protocol Internals
 
 * [Initial Network State](protocol-internals/initial-network-state.md)
