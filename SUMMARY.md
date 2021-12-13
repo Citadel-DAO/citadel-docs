@@ -5,29 +5,26 @@
 ## Basics
 
 * [FAQ](basics/basics.md)
-  * [OlyZaps](basics/olyzaps.md)
-* [V2 Migration](basics/migration.md)
 * [Staking](basics/staking.md)
 * [Bonding](basics/bonding.md)
 
 ## Using the Website
 
-* [Stake Your CTDL \(3, 3\)](using-the-website/staking.md)
-* [Purchase A Bond \(1, 1\)](using-the-website/bonds/README.md)
-  * [DAI Bond](using-the-website/bonds/bond_dai.md)
-  * [FRAX Bond](using-the-website/bonds/bond_frax.md)
-  * [wETH Bond](using-the-website/bonds/bond_weth.md)
+* [Stake Your CTDL (3, 3)](using-the-website/staking.md)
+* [Purchase A Bond (1, 1)](using-the-website/bonds/README.md)
+  * [DAI Bond](using-the-website/bonds/bond\_dai.md)
+  * [FRAX Bond](using-the-website/bonds/bond\_frax.md)
+  * [wETH Bond](using-the-website/bonds/bond\_weth.md)
   * [CTDL-DAI LP Bond](using-the-website/bonds/ohm-dai-lp-bond.md)
-  * [CTDL-FRAX LP Bond](using-the-website/bonds/bond_ohm_frax.md)
-* [Stake LP Tokens](using-the-website/staking_lp.md)
-* [Unstake LP Tokens](using-the-website/unstaking_lp.md)
-* [Migrate Tokens \(v1.1\)](using-the-website/migrate.md)
-* [Migrate Tokens \(v2\)](using-the-website/migrate_v2.md)
+  * [CTDL-FRAX LP Bond](using-the-website/bonds/bond\_ohm\_frax.md)
+* [Stake LP Tokens](using-the-website/staking\_lp.md)
+* [Unstake LP Tokens](using-the-website/unstaking\_lp.md)
+* [Migrate Tokens (v1.1)](using-the-website/migrate.md)
 * [OlyZaps](using-the-website/olyzaps.md)
 
 ## Using Etherscan
 
-* [Stake Your CTDL \(3, 3\)](using-etherscan/staking.md)
+* [Stake Your CTDL (3, 3)](using-etherscan/staking.md)
 * [Unstake sCTDL](using-etherscan/unstaking.md)
 
 ## Partnership
@@ -74,4 +71,3 @@
 * [Community Discord](https://discord.com/invite/olympusdao)
 * [DAO Discord](https://discord.com/invite/42xFV68uEf)
 * [Forum](https://forum.olympusdao.finance)
-
