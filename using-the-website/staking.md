@@ -5,10 +5,10 @@ Staking allows you to earn CTDL passively via auto-compounding. By staking your 
 ## How to Buy CTDL
 
 {% hint style="warning" %}
-There are several venues to purchase CTDL: [Sushiswap](https://app.sushi.com/swap), [Uniswap](https://app.uniswap.org/#/swap), or DEX aggregators such as [matcha](https://matcha.xyz). Make sure to **check the slippage first** before buying CTDL, as some venue offers worse rate than the others due to low liquidity.
+There are several venues to purchase CTDL: [Sushiswap](https://app.sushi.com/swap), [Uniswap](https://app.uniswap.org/#/swap), or DEX aggregators. Make sure to **check the slippage first** before buying CTDL, as some venue offers worse rate than the others due to low liquidity.
 {% endhint %}
 
-1. Go to [this Sushiswap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use Sushiswap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
+1. Go to [this Sushiswap swap page](https://app.sushi.com/swap). We use Sushiswap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
 2. Make sure the output currency is CTDL. You can also copy and paste the CTDL contract address into the output currency field to ensure you are swapping for the right token.
 3. You can select any input currency based on your available wallet balance. It is recommended to use DAI as the input currency to minimize the slippage.
 4. Select the amount of CTDL you want to swap for. Then click "Approve" and sign the transaction.

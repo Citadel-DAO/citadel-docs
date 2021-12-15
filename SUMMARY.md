@@ -13,12 +13,8 @@
 * [Stake Your CTDL (3, 3)](using-the-website/staking.md)
 * [Purchase A Bond (1, 1)](using-the-website/bonds/README.md)
   * [DAI Bond](using-the-website/bonds/bond\_dai.md)
-  * [FRAX Bond](using-the-website/bonds/bond\_frax.md)
   * [wETH Bond](using-the-website/bonds/bond\_weth.md)
   * [CTDL-DAI LP Bond](using-the-website/bonds/ohm-dai-lp-bond.md)
-  * [CTDL-FRAX LP Bond](using-the-website/bonds/bond\_ohm\_frax.md)
-* [Stake LP Tokens](using-the-website/staking\_lp.md)
-* [Unstake LP Tokens](using-the-website/unstaking\_lp.md)
 
 ## Using Etherscan
 
