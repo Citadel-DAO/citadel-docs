@@ -29,7 +29,6 @@
 
 ## Contracts
 
-* [Allocators](contracts/allocators.md)
 * [Bonds](contracts/bonds.md)
 * [DAO](contracts/dao.md)
 * [Policy](contracts/policy.md)
