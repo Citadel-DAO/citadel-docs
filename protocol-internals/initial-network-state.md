@@ -6,31 +6,26 @@ With tight policy and scale, Citadel should function well as a stable asset. Upw
 
 ## Alpha State
 
-The initial network features a one-way treasury \(money goes in, none comes out\), the bonding contract \(through which supply increases and profits are produced\), and the staking contract \(where profits are distributed\).
+The initial network features a one-way treasury (money goes in, none comes out), the bonding contract (through which supply increases and profits are produced), and the staking contract (where profits are distributed).
 
 The following are the initial policy states:
 
-* **BCV**
+*   **BCV**
 
-  [BCV](https://docs.olympusdao.finance/references/glossary#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for [liquidity bonds](https://docs.olympusdao.finance/references/glossary#liquidity-bonds) to increase their bond capacity. To view the BCV targets for different bond types, visit the [Citadel Policy Dune page](https://dune.xyz/shadow/Citadel-Policy).
+    [BCV](../references/glossary.md#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for [liquidity bonds](../contracts/bonds.md#ctdl-dai-lp-bond) to increase their bond capacity. To view the BCV targets for different bond types, visit the [Citadel Policy Dune page](https://dune.xyz/shadow/Citadel-Policy).
+*   **Bond vesting term**
 
-* **Bond vesting term**
+    It is set to 33110 Ethereum blocks or approximately five days for all bond types.
+*   **CTDL distribution**
 
-  It is set to 33110 Ethereum blocks or approximately five days for all bond types.
+    Every time someone purchases a bond, the proceed will go to the Citadel treasury. A corresponding amount of CTDL will be minted and distributed to three parties:
 
-* **CTDL distribution**
+    *   Bonder
 
-  Every time someone purchases a bond, the proceed will go to the [Citadel treasury](https://docs.olympusdao.finance/references/contracts#treasury). A corresponding amount of CTDL will be minted and distributed to three parties:
+        The bond purchaser will receive the quoted amount of CTDL linearly over the vesting term.
+    *   DAO
 
-  * Bonder
+        The DAO receives the same amount of CTDL as the bonder. This represents the DAO profit.
+    *   Stakers
 
-    The bond purchaser will receive the quoted amount of CTDL linearly over the vesting term.
-
-  * DAO
-
-    The DAO receives the same amount of CTDL as the bonder. This represents the DAO profit.
-
-  * Stakers
-
-    After accounting for the CTDL distributed to the bonder and the DAO, the rest will be distributed among all stakers in the protocol.
-
+        After accounting for the CTDL distributed to the bonder and the DAO, the rest will be distributed among all stakers in the protocol.
