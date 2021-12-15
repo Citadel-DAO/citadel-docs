@@ -38,9 +38,9 @@
 
 ## References
 
-* [Citadel Game Theory](references/game-theory.md)
 * [Audits](references/audits.md)
 * [Architecture](references/architecture.md)
+* [Citadel Game Theory](references/game-theory.md)
 * [Equations](references/equations.md)
 * [Glossary](references/glossary.md)
 * [Links](references/links.md)
