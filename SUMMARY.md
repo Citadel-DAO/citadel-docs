@@ -27,15 +27,9 @@
 * [Policy](protocol-internals/policy.md)
 * [Market Dynamics](protocol-internals/market-dynamics.md)
 
-## Whitepapers
-
-* [Economic Productivity in Digital Media](whitepapers/economic-productivity.md)
-* [Citadel Game Theory](whitepapers/game-theory.md)
-
 ## Contracts
 
 * [Allocators](contracts/allocators.md)
-* [Audits](contracts/audits.md)
 * [Bonds](contracts/bonds.md)
 * [DAO](contracts/dao.md)
 * [Policy](contracts/policy.md)
@@ -45,6 +39,8 @@
 
 ## References
 
+* [Citadel Game Theory](references/game-theory.md)
+* [Audits](references/audits.md)
 * [Architecture](references/architecture.md)
 * [Equations](references/equations.md)
 * [Glossary](references/glossary.md)
