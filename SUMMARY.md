@@ -10,7 +10,7 @@
 
 ## Using the Website
 
-* [Stake Your CTDL (3, 3)](using-the-website/staking.md)
+* [Stake Your CTDL (🏰,🏰)](using-the-website/staking.md)
 * [Purchase A Bond (1, 1)](using-the-website/bonds/README.md)
   * [DAI Bond](using-the-website/bonds/bond\_dai.md)
   * [wETH Bond](using-the-website/bonds/bond\_weth.md)
