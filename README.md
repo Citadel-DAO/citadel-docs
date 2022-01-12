@@ -1,10 +1,10 @@
 # Introduction
 
+![](<.gitbook/assets/small castle.png>)
+
 ## What is Citadel?
 
-Citadel is a "Treasury DAO" using the decentralized protocol forked from Olympus DAO. Citadel DAO uses the CTDL token and each CTDL token is backed by a basket of assets (e.g. DAI) in the Citadel treasury, giving it an intrinsic value that it cannot fall below. Citadel uses economic and game-theoretic dynamics into a market through staking and bonding. Below is a video explaining how the OHM model helps the treasury and project grow through these mechanics.
-
-{% embed url="https://www.youtube.com/watch?v=QZOaZ9dd-ms" %}
+Citadel is a "Treasury DAO" using the decentralized protocol forked from Olympus DAO. Citadel DAO uses the CTDL token and each CTDL token is backed by a basket of assets (e.g. DAI) in the Citadel treasury, giving it an intrinsic value that it cannot fall below. Citadel uses economic and game-theoretic dynamics into a market through staking and bonding.
 
 ## What is the point of Citadel?
 
